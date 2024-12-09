@@ -1,0 +1,10 @@
+/mtci
+├── /contracts         # Smart contracts written in Solidity
+├── /backend           # Node.js backend for APIs and services
+├── /frontend          # React.js-based frontend application
+├── /docs              # Documentation for the project
+├── /scripts           # Deployment scripts and automation tools
+├── /tests             # Unit and integration test cases
+├── .github            # GitHub-specific configurations (e.g., workflows)
+├── README.md          # Project overview and setup instructions
+└── package.json       # Shared dependencies (if applicable)
